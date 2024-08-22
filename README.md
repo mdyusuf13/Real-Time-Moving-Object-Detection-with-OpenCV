@@ -8,25 +8,32 @@ Real-time object detection using webcam feed
 Grayscale conversion and Gaussian blur for noise reduction
 Frame difference computation for motion detection
 Contour detection for accurate identification and highlighting of moving objects
+
 Requirements
 Python 3.x
 OpenCV (cv2)
 imutils (for image resizing)
+
 Installation
+
 Clone the Repository:
 
 
 git clone https://github.com/your-username/real-time-moving-object-detection.git
 cd real-time-moving-object-detection
+
 Install Required Packages:
 
 
 pip install opencv-python imutils
+
 Usage
+
 Run the Script:
 
 
 python moving_object_detection.py
+
 View the Output:
 
 The script will open a window displaying the webcam feed with moving objects highlighted.
