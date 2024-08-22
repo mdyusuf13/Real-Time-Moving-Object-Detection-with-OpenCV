@@ -1,6 +1,17 @@
 
 "Real-Time Moving Object Detection"
 
+Example Output:
+
+
+![Screenshot 1](![cameraFeed 8_23_2024 1_17_35 AM](https://github.com/user-attachments/assets/abbfbd9a-90b8-409d-a139-e0a52bb5662b)
+)
+
+
+![Screenshot 2](![cameraFeed 8_23_2024 1_20_37 AM](https://github.com/user-attachments/assets/6d112360-880c-4ae6-a8c9-ae788a3644d2)
+)
+
+
 Overview
 This project implements a real-time moving object detection system using OpenCV and Python. It leverages a webcam feed to capture video frames and utilizes image processing techniques to detect and highlight moving objects. The system is designed to enhance surveillance and monitoring applications by automating motion tracking.
 
