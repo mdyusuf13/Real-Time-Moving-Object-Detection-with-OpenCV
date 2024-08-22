@@ -5,18 +5,22 @@ Overview
 This project implements a real-time moving object detection system using OpenCV and Python. It leverages a webcam feed to capture video frames and utilizes image processing techniques to detect and highlight moving objects. The system is designed to enhance surveillance and monitoring applications by automating motion tracking.
 
 Features
-Real-time object detection using webcam feed
-Grayscale conversion and Gaussian blur for noise reduction
-Frame difference computation for motion detection
-Contour detection for accurate identification and highlighting of moving objects
 
-Requirements
+Real-time object detection using webcam feed.
+
+Grayscale conversion and Gaussian blur for noise reduction.
+
+Frame difference computation for motion detection.
+
+Contour detection for accurate identification and highlighting of moving objects.
+
+Requirements:
 
 Python 3.x
 OpenCV (cv2)
 imutils (for image resizing)
 
-Installation
+Installation:
 
 Clone the Repository:
 
